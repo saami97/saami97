@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Amir.
 - 👀 I’m interested in Cloud-native platform engineering (private and public cloud)
-- 🌱 I’m currently learning cloud-native technologies
 - 💞️ I’m looking to collaborate on kubernetes, docker, devops.
 - 📫 How to reach me amirsayed54@gmail.com
 
